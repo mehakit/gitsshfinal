@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Task TaskName="taskgitdemo" Desc="taskgitdemo" TaskID="ef73e9e1328d4e828aadbbdff5fc388d" Path="taskgitdemo.XML">
+  <Step StepId="1" stepSeq="1" ObjectId="" ObjectName="" ObjectTypeId="" ActionId="bb49d1ead632466aa02b76cdc17c9cce" ActionName="OpenURL" QClass="com.webdriverfw.Wrappers.General" isCommented="False" IsSkipped="false">
+    <Param Name="&quot;minimop&quot;" ParamSeq="1" Parameterized="0" Data="minimop">
+    </Param>
+  </Step>
+</Task>

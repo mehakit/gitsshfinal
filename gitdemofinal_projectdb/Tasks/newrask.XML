@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Task TaskName="newrask" Desc="newrask" TaskID="df0c3c5e61a4486689c6e0f1109e51b5" Path="newrask.XML">
+  <Step StepId="1" stepSeq="1" ActionId="66bb4a26a15748da955fbf464045b669" ActionName="Sleep" QClass="com.webdriverfw.Wrappers.General" isCommented="False" IsSkipped="false" ObjectId="" ObjectName="" ObjectTypeId="">
+    <Param Name="&quot;5&quot;" ParamSeq="1" Parameterized="0" Data="5">
+    </Param>
+  </Step>
+</Task>

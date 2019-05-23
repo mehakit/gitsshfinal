@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="317b9687153e437491dede489577f217" ManualTCId="sded" TCName="sded" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsHPQCLinked>False</IsHPQCLinked>
+  <WF>
+    <Task Name="ecd" Desc="ecd" TaskSeq="1" ID="fb1c87f5c5e94c8192e143847d30cb61" UpdateTS="5/23/2019 12:12:29 PM" FileName="ecd.XML" IsSystemTask="False" OnError="Continue" Comment="" isCommented="False">
+    </Task>
+    <Task Name="taskgitdemo" Desc="taskgitdemo" TaskSeq="2" ID="ef73e9e1328d4e828aadbbdff5fc388d" UpdateTS="5/23/2019 12:36:55 PM" FileName="taskgitdemo.XML" IsSystemTask="False" OnError="Continue" Comment="" isCommented="False">
+    </Task>
+    <Task Name="mehaktask" Desc="mehaktask" TaskSeq="3" ID="b24c311453c14e62a901023714f2295d" UpdateTS="5/23/2019 12:41:01 PM" FileName="mehaktask.XML" IsSystemTask="False" OnError="Continue" Comment="" isCommented="False">
+    </Task>
+    <Task Name="newrask" Desc="newrask" TaskSeq="4" ID="df0c3c5e61a4486689c6e0f1109e51b5" UpdateTS="5/23/2019 12:43:09 PM" FileName="newrask.XML" IsSystemTask="False" OnError="Continue" isCommented="False">
+    </Task>
+  </WF>
+  <Data>
+    <TCDataSet Iteration="1" Mark="True" TCDataSetTag="">
+    </TCDataSet>
+  </Data>
+</TC>
